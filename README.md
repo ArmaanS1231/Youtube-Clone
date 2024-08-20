@@ -3,4 +3,6 @@ A Youtube replication to help me practice my html skills. Used Super Simple Dev'
 
 
 # To Experience
+Simply CLick the Website link in thr repo or click here: https://armaans1231.github.io/Youtube-Clone/
+OR
 Simply download all the files and open the Youtube-clone html file in your desired browser
